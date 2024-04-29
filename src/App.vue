@@ -1,4 +1,5 @@
-<script setup lang="ts">
+<script setup>
+
 import LeagueTable from "./components/LeagueTable.vue";
 </script>
 
